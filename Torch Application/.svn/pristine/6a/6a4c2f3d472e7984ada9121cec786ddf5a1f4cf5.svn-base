@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Akash\\AndroidStudioProjects\\TorchApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Akash\\.android\\build-cache\\e5a084b37ee5fcc7472e5fdcf5592f135fb5018b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akash\\AndroidStudioProjects\\TorchApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Akash\\.android\\build-cache\\e5a084b37ee5fcc7472e5fdcf5592f135fb5018b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
