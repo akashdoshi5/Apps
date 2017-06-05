@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Akash\.android\build-cache\e5a084b37ee5fcc7472e5fdcf5592f135fb5018b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Akash\.android\build-cache\c2c021d4eb8bb7098f3504519bc05ee7272080df\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Akash\.android\build-cache\451134212582d8cab7ded5640410f8e5e0e3135e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Akash\.android\build-cache\89d64de0adcd6a3cda0bbe9731b7c344c6273dfa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Akash\.android\build-cache\86c14e28056408e5d8e6f7e18848b9e2a2423ac1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Akash\.android\build-cache\9f2ad0a915becb96f59559f01ee513f83e49dc45\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Akash\.android\build-cache\605b03a986e75e9394dc12cd520eda0172608bfc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Akash\.android\build-cache\1769b1a397f2d856affafeb3a8ffddf7638a9864\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Akash\.android\build-cache\0027178cda58efa7a7a45b91a3486613de5e5717\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Akash\.android\build-cache\170aa2976c45e985d35252e40ffadfb82ce1adac\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.akash.torchapplication.MainActivity
+ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Akash\.android\build-cache\e5a084b37ee5fcc7472e5fdcf5592f135fb5018b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Akash\.android\build-cache\c2c021d4eb8bb7098f3504519bc05ee7272080df\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Akash\.android\build-cache\451134212582d8cab7ded5640410f8e5e0e3135e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Akash\.android\build-cache\89d64de0adcd6a3cda0bbe9731b7c344c6273dfa\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Akash\.android\build-cache\86c14e28056408e5d8e6f7e18848b9e2a2423ac1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Akash\.android\build-cache\9f2ad0a915becb96f59559f01ee513f83e49dc45\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Akash\.android\build-cache\605b03a986e75e9394dc12cd520eda0172608bfc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Akash\.android\build-cache\1769b1a397f2d856affafeb3a8ffddf7638a9864\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Akash\.android\build-cache\0027178cda58efa7a7a45b91a3486613de5e5717\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Akash\.android\build-cache\170aa2976c45e985d35252e40ffadfb82ce1adac\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Akash\.android\build-cache\e5a084b37ee5fcc7472e5fdcf5592f135fb5018b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Akash\AndroidStudioProjects\TorchApplication\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Akash\.android\build-cache\e5a084b37ee5fcc7472e5fdcf5592f135fb5018b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Akash\.android\build-cache\c2c021d4eb8bb7098f3504519bc05ee7272080df\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Akash\.android\build-cache\451134212582d8cab7ded5640410f8e5e0e3135e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Akash\.android\build-cache\89d64de0adcd6a3cda0bbe9731b7c344c6273dfa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Akash\.android\build-cache\86c14e28056408e5d8e6f7e18848b9e2a2423ac1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Akash\.android\build-cache\9f2ad0a915becb96f59559f01ee513f83e49dc45\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Akash\.android\build-cache\605b03a986e75e9394dc12cd520eda0172608bfc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Akash\.android\build-cache\1769b1a397f2d856affafeb3a8ffddf7638a9864\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Akash\.android\build-cache\0027178cda58efa7a7a45b91a3486613de5e5717\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Akash\.android\build-cache\e5a084b37ee5fcc7472e5fdcf5592f135fb5018b\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Akash\.android\build-cache\e5a084b37ee5fcc7472e5fdcf5592f135fb5018b\output\AndroidManifest.xml:26:9-47
